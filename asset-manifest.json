@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xo-savestate/static/css/main.0a099493.css",
+    "main.js": "/xo-savestate/static/js/main.ac72267f.js",
+    "static/js/787.bf0a3f2e.chunk.js": "/xo-savestate/static/js/787.bf0a3f2e.chunk.js",
+    "index.html": "/xo-savestate/index.html",
+    "main.0a099493.css.map": "/xo-savestate/static/css/main.0a099493.css.map",
+    "main.ac72267f.js.map": "/xo-savestate/static/js/main.ac72267f.js.map",
+    "787.bf0a3f2e.chunk.js.map": "/xo-savestate/static/js/787.bf0a3f2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a099493.css",
+    "static/js/main.ac72267f.js"
+  ]
+}
